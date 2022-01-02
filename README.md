@@ -18,10 +18,26 @@ This project is part of the **[Professional Game Development in C++ and Unreal E
 
 ![Combat Example Still](https://www.tomlooman.com/wp-content/uploads/2021/09/ue_course_herobanner_split_small.jpg)
 
-### Survival Game (Unreal Engine C++ Sample Project)
+### Third-person Survival Game (Unreal Engine C++ Sample Project)
 
 Third-person survival game for Unreal Engine made entirely in C++. Originally built as six part tutorial series for Epic Games, now available as open-source C++ sample project.
 
 **[View Repository](https://github.com/tomlooman/EpicSurvivalGame)**
 
 ![Refreshed look for Landscape Map](https://www.tomlooman.com/wp-content/uploads/2015/04/section6_advancedanimbp031.jpg)
+
+### Udemy Course Projects
+
+My old Unreal Engine C++ Udemy course ([Unreal Engine 4 Mastery: Create Multiplayer Games with C++](https://www.udemy.com/course/unrealengine-cpp/)) has two reference projects available.
+
+#### Stealth Game
+
+Simple Stealth Game project 1 of the udemy course and is based on the [simple FPS template project](https://github.com/tomlooman/SimpleFPSTemplate). 
+
+**[View Repository](https://github.com/tomlooman/StealthGameUdemy)**
+
+#### Co-op Third-person Shooter
+
+Co-op third-person game with multiplayer support. Project 2 of the Udemy course.
+
+**[View Repository](https://github.com/tomlooman/CoopShooterUdemy)**
