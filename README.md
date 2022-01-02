@@ -24,4 +24,4 @@ Third-person survival game for Unreal Engine made entirely in C++. Originally bu
 
 **[View Repository](https://github.com/tomlooman/EpicSurvivalGame)**
 
-![Refreshed look for Landscape Map](https://www.tomlooman.com/wp-content/uploads/2021/01/survivalgame_refresh_05.jpg)
+![Refreshed look for Landscape Map](https://www.tomlooman.com/wp-content/uploads/2015/04/section6_advancedanimbp031.jpg)
