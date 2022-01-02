@@ -6,6 +6,8 @@ You can find all my blogs and tutorials over at [tomlooman.com](https://tomlooma
 
 In 2020 I taught a full curriculum at Stanford University for Unreal Engine C++. You can now enroll in this course yourself using the links below.
 
+**[Professional Game Development in C++ and Unreal Engine](https://courses.tomlooman.com/p/unrealengine-cpp?coupon_code=COMMUNITY15&src=github)**
+
 The C++ Course features include building of a C++ game framework including an "action system" and event-driven code for flexible and re-usable game code the "unreal way". Multiplayer features, AI bots, SaveGame system, async loading of content, UMG menus and UI and so much more!
 
 ### Action Roguelike (Unreal Engine C++ Pro Course)
