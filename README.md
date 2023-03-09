@@ -28,7 +28,7 @@ Third-person survival game for Unreal Engine made entirely in C++. Originally bu
 
 ## Udemy Course Projects
 
-My old Unreal Engine C++ Udemy course ([Unreal Engine 4 Mastery: Create Multiplayer Games with C++](https://www.udemy.com/course/unrealengine-cpp/)) has two reference projects available.
+My old Unreal Engine C++ Udemy course ([Unreal Engine 4 Mastery: Create Multiplayer Games with C++](https://www.udemy.com/course/unrealengine-cpp/?referralCode=978F0D3D6ABFD10277F5)) has two reference projects available.
 
 #### Stealth Game
 
